@@ -2,18 +2,18 @@
 
 ### Why we create The Disaster Relief App?
 
-The Disaster Relief App was created to help the rescuers locate and give the help everyone one needs more efficient.
+The Disaster Relief App was created to help the rescuers locate and give help to everyone's needs more efficiently.
 
 ### What does Disaster Relief App? 
 
-In the users side the App offer the option to register. Everyone who register migth provide important information about themselves and their family members.
-The user can add their address and then they will take to another page where can provide **Name**, **Age**, **if they have pets**,  **Disability or Special Condition** also they can add ("optional")  **picture**. Once the user finish to comple the registration the app store the information in a database that just would have acces the rescue team. Why is important to give this information? In case of disaster it will helpfull if the rescuers know the information about each address this way they can check who needs immediately help based in this information. Also the rescuers would know how many people they are looking for in certain address, if is there a pet, if somebody requires special help or assistance. 
+On the users' side, the App offers the option to register. Everyone who registers might provide important information about themselves and their family members.
+The user can add their address and then they will take to another page where they can provide **Name**, **Age**, **if they have pets**,  **Disability or Special Condition** also they can add ("optional")  **picture**. Once the user finishes completing the registration the app store the information in a database that just would have access to the rescue team. Why is important to give this information? In case of disaster, it will helpfull if the rescuers know the information about each address this way they can check who needs immediate help based on this information. Also, the rescuers would know how many people they are looking for in a certain address, if is there a pet, if somebody requires special help or assistance. 
 
-In the rescuers side the App give them a kind of beacon through their cellphones camera or another device. The App will show a marker in each address with information about that address.
+On the rescuers' side the App gives them a kind of beacon through their cellphone camera or another device. The App will show a marker in each address with information about that address.
 
 ### What is the Disaster Relief App? 
 
-The Disaster Relief App is disigned to aid rescuers in locating and accessing the need of civilians in during or after a Disaster.
+The Disaster Relief App is designed to aid rescuers in locating and accessing the need for civilians during or after a Disaster.
 
 #### Starting Steps: 
 1. On the homepage got to "Find me" 
